@@ -1,4 +1,4 @@
-# Training-Ground — _Mission-Grade Problem Solving & Systems Failure Simulation Platform_
+# Training Ground — _Mission-Grade Problem Solving & Systems Failure Simulation Platform_
 
 ## 🧰 Technologies Used in Practice
 
